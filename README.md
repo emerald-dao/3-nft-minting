@@ -45,7 +45,7 @@ cd 3-nft-minting
 flow emulator start -v
 ```
 
-*Note #1: the `-v` flag means to print transaction and script output to your local emulator*
+*Note: the `-v` flag means to print transaction and script output to your local emulator*
 
 > in a third terminal window, 💾 deploy your contract and 💸 start your local wallet:
 
@@ -156,9 +156,9 @@ After buying an NFT, you should notice the balance of the account decrease.
   "emulator": {
     "emulator-account": [
       "NonFungibleToken",
-			"MetadataViews",
-			"ExampleNFT"
-		]
+		  "MetadataViews",
+		  "ExampleNFT"
+	  ]
   },
   "testnet": {
     "testnet-account": [
