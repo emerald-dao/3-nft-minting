@@ -191,17 +191,17 @@ In your .env file, change the following:
 
 You can now terminate all your terminals since we no longer need to run our own local blockchain or wallet. Everything lives on testnet!
 
-> Run `npm run dev` to start your application in a terminal.
+Let's try out our DApp on testnet:
 
-> On `http://localhost:3000/`, click "connect" and log in to your Blocto or Lilico wallet, making sure to copy the address you log in with.
+1. Run `npm run dev` to start your application in a terminal.
+
+2. On `http://localhost:3000/`, click "connect" and log in to your Blocto or Lilico wallet, making sure to copy the address you log in with.
 
 <img src="https://i.imgur.com/dvYO2aU.png" alt="logging into discovery" />
 
-> In a terminal, run `npm run mint`
-
-In your terminal, you should see a printed "Transaction Id". If you go to [Testnet Flowscan](https://testnet.flowscan.org/) and paste in that Transaction Id, you should see information about that minting transaction.
-
-You should now see all the NFTs available for purchase!
+3. In a terminal, run `npm run mint`
+4. In your terminal, you should see a printed "Transaction Id". If you go to [Testnet Flowscan](https://testnet.flowscan.org/) and paste in that Transaction Id, you should see information about that minting transaction.
+5. You should now see all the NFTs available for purchase!
 
 *Note: If you want to fund a testnet account with Flow Tokens to test your application, you can use the [Testnet Faucet](https://testnet-faucet.onflow.org/fund-account)
 
