@@ -217,7 +217,7 @@ Let's try out our DApp on testnet:
 
 # ⚔️ Side Quests
 
-> 🏃 More challenges coming soon...
+> 🏃 Head to your next challenge [here](https://academy.ecdao.org/challenges/voting).
 
 > 💬 Meet other builders working on this challenge and get help in the [💎 Emerald City Discord](https://discord.gg/emeraldcity)!
 
